@@ -46,3 +46,35 @@ main {
   max-width: 57.5rem;
   display: flex;
 }
+
+/* card itm style */
+
+.card__content--orange {
+  background-color: var(--bk-orange);
+}
+
+.card__content--cyan {
+  background-color: var(--bk-dark-cyan);
+}
+
+.card__content--dark-cyan {
+  background-color: var(--bk-very-dark-cyan);
+}
+
+.card__content {
+  padding: 3rem 2.96875rem 3rem 3rem;
+}
+
+.card__icon {
+  margin-bottom: 2.1875rem;
+}
+
+.card__header {
+  font-family: var(--ff-h);
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 3rem;
+  color: var(--light-gray);
+  text-transform: uppercase;
+  margin-bottom: 1.5625rem;
+}
