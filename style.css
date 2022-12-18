@@ -42,7 +42,6 @@ main {
 }
 
 .card {
-  border: solid 2px orangered;
   max-width: 57.5rem;
   display: flex;
 }
