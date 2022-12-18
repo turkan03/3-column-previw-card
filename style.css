@@ -84,3 +84,31 @@ main {
   opacity: 0.75;
   margin-bottom: 5.1875rem;
 }
+
+.card__link--orange {
+  color: var(--bk-orange);
+}
+
+.card__link--cyan {
+  color: var(--bk-dark-cyan);
+}
+
+.card__link--dark-cyan {
+  color: var(--bk-very-dark-cyan);
+}
+
+.card__link:link,
+.card__link:visited {
+  text-decoration: none;
+  background-color: var(--light-gray);
+  border: none;
+  border-radius: 25px;
+  padding: 0.6875rem 1.96875rem 0.75rem 1.96875rem;
+}
+
+.card__link:active,
+.card__link:hover {
+  background: none;
+  border: 2px solid #fff;
+  color: var(--light-gray);
+}
