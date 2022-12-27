@@ -20,8 +20,9 @@ It is project help me practice how use Flexbox, make animation for buttons, and 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/turkan03/3-column-previw-card.git)
-- Live Site URL: [Add live site URL here](preview-card-turkan.netlify.app)
+- Solution URL: [GitHub Repo](https://github.com/turkan03/3-column-previw-card.git)
+- Live Site URL: [GitHub Pages](https://turkan03.github.io/3-column-previw-card/)
+  ]
 
 ### Built with
 
