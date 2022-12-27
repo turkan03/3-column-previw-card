@@ -168,3 +168,12 @@ main {
   border: 2px solid #fff;
   color: var(--light-gray);
 }
+
+/*responsive  for mobile and tablet*/
+
+@media (max-width: 58em) {
+  .card {
+    max-width: 20.4375rem;
+    flex-wrap: wrap;
+  }
+}
